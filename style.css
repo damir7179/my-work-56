@@ -1,0 +1,20 @@
+.box{
+    border-radius: 0px 0px 10px 10px;
+    background-color: aliceblue;
+    width: 78px;
+}
+body{
+    background-color: gray;
+}
+.i1{
+    color: gray
+}
+.i2{
+    color: gray
+}
+.i3{
+    color: gray
+}
+.i4{
+    color: gray
+}
